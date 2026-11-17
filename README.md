@@ -13,5 +13,7 @@ and plays them as `s("hook2x_up")`, in [Strudel](https://strudel.cc) or
 
 The vocals are my takes, shifted and tuned to the song's key in one pass
 with [Rubber Band](https://breakfastquay.com/rubberband/) (R3 engine,
-following a pitch map from a YIN pitch detector). `_k2` versions are a
-whole step up, for the last chorus.
+following a pitch map from a YIN pitch detector). The octave-up lines are
+tuned at their own pitch first, then shifted with formants kept (warmer);
+the two-octaves-up layer keeps the bright, chipmunk shift. `_k2` versions
+are a whole step up, for the last chorus.
