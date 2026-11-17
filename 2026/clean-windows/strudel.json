@@ -1,0 +1,30 @@
+{
+  "_base": "https://raw.githubusercontent.com/detrin/sounds/main/2026/clean-windows/",
+  "clean_it_up": [
+    "clean_it_up.wav"
+  ],
+  "hook2x_up": [
+    "hook2x_up.wav"
+  ],
+  "hook2x_up2": [
+    "hook2x_up2.wav"
+  ],
+  "i_go_up": [
+    "i_go_up.wav"
+  ],
+  "i_promise": [
+    "i_promise.wav"
+  ],
+  "i_will_clean_it": [
+    "i_will_clean_it.wav"
+  ],
+  "i_will_clean_the_windows_2x": [
+    "i_will_clean_the_windows_2x.wav"
+  ],
+  "woke_up": [
+    "woke_up.wav"
+  ],
+  "yeah": [
+    "yeah.wav"
+  ]
+}
