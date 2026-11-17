@@ -1,0 +1,9 @@
+{
+  "_base": "https://raw.githubusercontent.com/detrin/sounds/main/2026/acid-techno/",
+  "drugs": [
+    "drugs.wav"
+  ],
+  "i_am_on_drugs": [
+    "i_am_on_drugs.wav"
+  ]
+}
