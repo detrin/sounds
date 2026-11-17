@@ -10,3 +10,8 @@ samples('github:detrin/sounds/main/2026/clean-windows')
 
 and plays them as `s("hook2x_up")`, in [Strudel](https://strudel.cc) or
 [Strudelton](https://github.com/detrin/strudelton).
+
+The vocals are my takes, shifted and tuned to the song's key in one pass
+with [Rubber Band](https://breakfastquay.com/rubberband/) (R3 engine,
+following a pitch map from a YIN pitch detector). `_k2` versions are a
+whole step up, for the last chorus.
