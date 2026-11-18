@@ -17,3 +17,9 @@ following a pitch map from a YIN pitch detector). The octave-up lines are
 tuned at their own pitch first, then shifted with formants kept (warmer);
 the two-octaves-up layer keeps the bright, chipmunk shift. `_k2` versions
 are a whole step up, for the last chorus.
+
+`2026/harder-better-faster-stronger/` is a remake of Daft Punk's song, and
+its vocals are not my takes: macOS text-to-speech run through a channel
+vocoder. Each 2-bar phrase (`hbfs_p25` is the one starting at bar 25) is
+warped to the original's timing (dynamic time warping), sung on its measured
+pitch curve and gated by its loudness; no audio of the original is in them.
