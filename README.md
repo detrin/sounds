@@ -23,3 +23,5 @@ its vocals are not my takes: macOS text-to-speech run through a channel
 vocoder. Each 2-bar phrase (`hbfs_p25` is the one starting at bar 25) is
 warped to the original's timing (dynamic time warping), sung on its measured
 pitch curve and gated by its loudness; no audio of the original is in them.
+Each phrase's loudness gate is as strong as it can be while the words stay
+clear (whisper reads them back): the full gate made some verses garbled.
